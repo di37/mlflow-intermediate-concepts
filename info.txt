@@ -1,0 +1,6 @@
+# MLFlow Experiments
+
+MLFLOW_TRACKING_URI=https://dagshub.com/di37/mlflow-experiments.mlflow \
+MLFLOW_TRACKING_USERNAME=di37 \
+MLFLOW_TRACKING_PASSWORD=5f52e26d98eeeced8cddd65d2ef00eed113a4ab8 \
+python script.py
