@@ -52,9 +52,9 @@ In general:
 mlflow db upgrade [db_uri]
 ```
 
-## Experiment Tracking
+## 1. Experiment Tracking
 
-- Follow the runs in the notebook for training the ml model and hyperparameter tuning.
+- Follow the runs in the notebook - `01_duration_prediction_intro_to_mlflow.ipynb` for training the ml model and hyperparameter tuning.
 - Once we run couple of experiments, we are then ready to compare and contrast in order to find the optimal hyperparameters vs. evaluation metrics of the models and accordingly choose the best model.
 - We will be able to visualize all sorts of plots we want.
 - Once we obtain optimal model parameters, we will train using these params.
